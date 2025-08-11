@@ -2,7 +2,7 @@
 url: https://apnews.com/article/abortion-trump-federal-courts-judges-senate-6f435d40ea7c878f123a86eb9cb4d6f9
 title: "How Trump\u2019s judicial picks could reshape abortion rights for decades"
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

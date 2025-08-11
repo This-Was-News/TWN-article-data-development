@@ -3,7 +3,7 @@ url: https://apnews.com/article/wyden-senate-oregon-trump-democrats-2bacdf8cf27c
 title: Some Democrats want new leadership. Oregon Sen. Ron Wyden says he has what
   it takes to resist Trump
 publisher: ap
-usage: candidate
+usage: rejected
 initial_rank: 5
 ---
 ## Article summary

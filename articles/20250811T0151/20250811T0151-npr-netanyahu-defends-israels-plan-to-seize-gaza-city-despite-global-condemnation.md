@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/08/10/nx-s1-5497905/netanyahu-israel-plan-gaza-united-nations
+title: Netanyahu defends Israel's plan to seize Gaza City, despite global condemnation
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Israeli Prime Minister Benjamin Netanyahu defended his government's plan to seize control of Gaza City and the remaining parts of Gaza not already under Israeli control, despite widespread protests and international condemnation. The plan, approved by Israel's Security Cabinet, involves the mass displacement of Palestinians in Gaza, with Netanyahu claiming that 75% of Gaza is already under Israeli military control. He asserted that the plan is the best way to end the war swiftly, but did not provide details on how the population of 2 million would be safely moved to designated safe zones. The plan has faced criticism from Israelis, families of hostages held in Gaza, and international leaders, who argue that it will lead to further bloodshed and a humanitarian crisis. The U.N. Security Council met to discuss the offensive, with members expressing concern over the humanitarian situation in Gaza, where hospitals are struggling and malnutrition is widespread. Protests erupted in Israel and abroad, with demonstrators calling for an end to the war and the release of hostages. International criticism has been strong, with European foreign ministers and Middle Eastern countries condemning the plan. The U.S. ambassador to the U.N. supported Israel's right to decide on security measures, while Netanyahu's office thanked President Trump for his support. The plan has been met with resistance from within Netanyahu's own far-right governing coalition, with some ministers calling for the annexation of Gaza and permanent displacement of its population.

@@ -2,7 +2,7 @@
 url: https://www.npr.org/2025/08/09/nx-s1-5492477/gobleki-tepe-archaeology
 title: "An ancient archaeological site meets conspiracy theories \u2014 and Joe Rogan"
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 4
 ---
 ## Article summary

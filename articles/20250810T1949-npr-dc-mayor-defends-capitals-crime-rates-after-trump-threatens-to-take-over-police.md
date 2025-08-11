@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/08/10/g-s1-81933/d-c-mayor-defends-capitals-crime-
 title: D.C. mayor defends capital's crime rates after Trump threatens to take over
   police
 publisher: npr
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

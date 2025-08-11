@@ -3,7 +3,7 @@ url: https://apnews.com/article/israel-palestinians-hamas-war-hostages-gaza-08-1
 title: Netanyahu defends new military offensive in Gaza and says it will be wider
   than announced
 publisher: ap
-usage: top
+usage: lead
 initial_rank: 1
 ---
 ## Article summary

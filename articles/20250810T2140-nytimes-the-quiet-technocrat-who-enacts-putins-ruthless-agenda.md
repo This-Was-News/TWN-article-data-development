@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-sergei-kiriyenko.html
 title: "The Quiet Technocrat Who Enacts Putin\u2019s Ruthless Agenda"
 publisher: nytimes
-usage: top
+usage: rejected
 initial_rank: 1
 ---
 ## Article summary

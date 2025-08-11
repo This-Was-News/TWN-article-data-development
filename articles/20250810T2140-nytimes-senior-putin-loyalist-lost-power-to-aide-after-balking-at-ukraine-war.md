@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/08/10/world/europe/putin-russia-ukraine-war-dmitri-kozak.html
 title: Senior Putin Loyalist Lost Power to Aide After Balking at Ukraine War
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 3
 ---
 ## Article summary

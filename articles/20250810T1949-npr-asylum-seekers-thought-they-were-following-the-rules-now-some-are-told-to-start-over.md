@@ -3,7 +3,7 @@ url: https://www.npr.org/2025/08/10/nx-s1-5487598/asylum-seekers
 title: Asylum-seekers thought they were following the rules. Now some are told to
   start over
 publisher: npr
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

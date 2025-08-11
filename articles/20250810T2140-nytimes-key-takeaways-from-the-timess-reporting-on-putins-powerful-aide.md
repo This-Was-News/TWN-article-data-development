@@ -2,7 +2,7 @@
 url: https://www.nytimes.com/2025/08/10/world/europe/russia-putin-kiriyenko-takeaways.html
 title: "Key Takeaways From The Times\u2019s Reporting on Putin\u2019s Powerful Aide"
 publisher: nytimes
-usage: candidate
+usage: rejected
 initial_rank: 2
 ---
 ## Article summary

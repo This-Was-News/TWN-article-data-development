@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/09/01/nx-s1-5521944/news-outlets-call-for-safety-of-journalists-covering-the-war-in-gaza
+title: 'Media outlets demand that Israel grant access to Gaza and halt attacks on
+  journalists there       '
+publisher: npr
+usage: top
+initial_rank: 1
+---
+## Article summary
+More than 250 news outlets worldwide, including NPR, have signed an appeal urging Israel to protect Palestinian journalists in Gaza, grant foreign press independent access, and evacuate wounded journalists for medical treatment. The appeal, organized by Reporters Without Borders and Avaaz, highlights that at least 220 journalists have been killed by the Israeli army in Gaza over two years of war, marking the deadliest period for journalists globally. Israel's Foreign Ministry dismissed the appeal as a political manifesto against Israel, claiming global media reports do not reflect the true situation in Gaza. A study by Brown University found that Israel's attacks in Gaza have killed more journalists than major wars combined. The Committee to Protect Journalists accuses Israel of engaging in the deadliest and most deliberate effort to kill and silence journalists. The appeal also calls for action from the international community and the United Nations Security Council to stop Israel's killing of journalists in Gaza. A similar petition signed in June by major news organizations noted that the risks to journalists in Gaza are a direct attack on press freedom. Israel's military has acknowledged some attacks on journalists, alleging affiliations with Hamas, but the Committee to Protect Journalists disputes these claims, citing lack of credible evidence. In August alone, Palestinian journalists reported the deaths of 15 colleagues, with notable attacks including the killing of a Reuters cameraman and four other journalists during a live transmission from a hospital. The editors-in-chief of Reuters and the AP questioned Israel's willingness and ability to investigate itself, raising concerns about deliberate targeting of the media to suppress information in Gaza.

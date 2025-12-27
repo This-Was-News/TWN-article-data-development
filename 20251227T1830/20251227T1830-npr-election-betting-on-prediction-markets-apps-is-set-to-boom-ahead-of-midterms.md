@@ -1,0 +1,9 @@
+---
+url: https://www.npr.org/2025/12/23/nx-s1-5647749/rise-of-prediction-markets
+title: Election betting on prediction markets apps is set to boom ahead of midterms
+publisher: npr
+usage: candidate
+initial_rank: 2
+---
+## Article summary
+Online prediction markets like Polymarket and Kalshi, once scrutinized by the Biden administration, are now gaining traction under the Trump administration, raising concerns about potential election interference. During the Biden years, regulators aggressively pursued legal actions to ban these apps from allowing bets on election outcomes and sports, leading to Polymarket ceasing U.S. operations. However, with Trump's return to power, the landscape has shifted dramatically. Kalshi, a major competitor, is experiencing significant growth, partly due to the Trump administration's supportive stance and the appointment of Donald Trump Jr. as a strategic adviser. This shift comes despite warnings from election experts about the potential for these betting markets to undermine election integrity. Prediction markets operate by allowing users to bet on the outcomes of real-world events, turning any scenario into a potential wager. While Kalshi and Polymarket claim to differ from traditional gambling by having traders bet against each other, a class-action lawsuit alleges that their use of market makers resembles betting against the house. These platforms circumvent gambling regulations by classifying their offerings as "event contracts." Despite state-level legal challenges and concerns about insider trading, Kalshi maintains its operations are compliant and that its markets are driven by informed traders. The involvement of media outlets like CNN and CNBC in incorporating prediction market data into their coverage further highlights the growing influence of these platforms, even as critics like Jeffrey Sonnenfeld warn of their vulnerability to manipulation.

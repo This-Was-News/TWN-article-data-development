@@ -1,0 +1,10 @@
+---
+url: https://www.npr.org/2025/12/27/nx-s1-5649519/myanmar-election
+title: Myanmar is set to hold phased elections. Here's why they're being called a
+  'sham'
+publisher: npr
+usage: candidate
+initial_rank: 3
+---
+## Article summary
+Myanmar's military rulers are proceeding with phased general elections starting December 28, 2025, despite an ongoing civil war and widespread criticism labeling the vote a "sham." The elections are intended to restore stability and end the junta's international isolation following their 2021 coup. Since the coup, the military has engaged in widespread violence, imprisonment, and displacement, leaving millions food insecure. United Nations Secretary General António Guterres has stated that the conditions for free and fair elections are absent due to the conflict and the junta's human rights record. The military has enacted a law against "interference" in the election process, leading to the detention of nearly 100 individuals, some for social media activity critical of the vote. Most Western governments are refusing to send observers, viewing the election as an attempt to establish a parliament dominated by the military-backed Union Solidarity and Development Party (USDP), as the previously dominant National League for Democracy (NLD) is banned and its leaders, including Aung San Suu Kyi, remain imprisoned. Neighboring China supports the election, viewing the military as a "necessary evil" to prevent further chaos and protect its economic projects, even pressuring ethnic armed organizations to cede territory. The opposition groups are fragmented and have suffered strategic setbacks, while a growing sense of fatigue among young fighters also benefits the junta. Despite the challenges, some remain committed to overthrowing the military, viewing the election as detrimental to long-term democratic prospects. However, many citizens, weary of years of war and hardship, are seeking any hope of relief, even if it means a less-than-ideal government.
